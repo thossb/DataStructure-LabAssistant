@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1683265689 source:c:\kuliah\asdos\strukdat_f_smt4_2023\modul3\jawaban\main.cpp
+	<stdlib.h>
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+

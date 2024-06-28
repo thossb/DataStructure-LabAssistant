@@ -1,0 +1,24 @@
+	- Dockerfile
+	- docker-compose.yml
+	- dockerhub.txt
+
+
+- database/
+--- database.c
+--- cron.sh *[settingan_cron_backup]*
+
+
+- client/
+--- client.c
+
+
+- dump/
+--- client_dump.c
+
+
+
+haikal athalarik
+choirun niam
+nouval royhan
+idris arif
+wafi

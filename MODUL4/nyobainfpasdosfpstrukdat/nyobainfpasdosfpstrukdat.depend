@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685732600 source:c:\kuliah\asdos\strukdat_f_smt4_2023\modul4\nyobainfpasdosfpstrukdat\main.cpp
+	<stdlib.h>
+	<stdbool.h>
+	<stdio.h>
+
